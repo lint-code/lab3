@@ -1,0 +1,30 @@
+<resources>
+    <string name="a1">One,One</string>
+    <string name="a2">One,Two</string>
+    <string name="a3">One,Three</string>
+    <string name="a4">One,Four</string>
+    <string name="a5">Two,One</string>
+    <string name="a6">Two,Two</string>
+    <string name="a7">Two,Three</string>
+    <string name="a8">Two,Four</string>
+    <string name="a9">Three,One</string>
+    <string name="a10">Thress,Two</string>
+    <string name="a11">Three,Three</string>
+    <string name="a12">Three,Four</string>
+    <string name="a13">Four,One</string>
+    <string name="a14">Four,Two</string>
+    <string name="a15">Four,Three</string>
+    <string name="a16">Four,Four</string>
+    <string name="open">Open……</string>
+    <string name="ctrlo">Ctrl-O</string>
+    <string name="save">Save……</string>
+    <string name="ctrls">Ctrls</string>
+    <string name="saveas">Save&#160;&#160;As……</string>
+    <string name="ctrlshifts">Ctrl-Shift-S</string>
+    <string name="importa">X&#160;&#160;Import</string>
+    <string name="exporta">X&#160;&#160;Export</string>
+    <string name="ctrle">Ctrl-E</string>
+    <string name="quit">Quit</string>
+
+
+</resources>
